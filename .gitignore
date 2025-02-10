@@ -1,0 +1,8 @@
+
+# Ignore environment file
+.env
+.lightning_studio
+.wakatime
+.wakatime.cfg
+.vscode
+.idea/
