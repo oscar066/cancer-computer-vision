@@ -7,3 +7,9 @@
 .vscode
 .idea/
 .keras/
+
+# Ignore Trained models as they can be very large
+models/
+cancer-computer-vision/models/
+
+# Ignore logs
